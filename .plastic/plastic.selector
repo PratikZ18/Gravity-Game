@@ -1,0 +1,4 @@
+repository "Gravity Game@Gravity_team@cloud"
+  path "/"
+    br "/main"
+    co "/main"
